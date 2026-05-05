@@ -20,9 +20,9 @@ LinkingTo:
 Imports: 
     dplyr,
     ggplot2,
-    methods,
-    Rcpp
+    methods
 Suggests: 
+    Rcpp,
     RcppThread,
     RcppArmadillo,
     readr,
