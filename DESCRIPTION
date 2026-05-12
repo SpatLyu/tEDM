@@ -32,7 +32,9 @@ Suggests:
     rmarkdown,
     purrr,
     tidyr,
-    cowplot
+    cowplot,
+    pc,
+    infoxtr
 VignetteBuilder: knitr
 Config/roxygen2/markdown: TRUE
 Config/roxygen2/version: 8.0.0
